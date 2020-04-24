@@ -38,7 +38,7 @@
     </table>
 
             <div class="form-actions">
-                <button type="submit">Search</button>
+                <button type="submit">Submit</button>
             </div>
 
 </form>
