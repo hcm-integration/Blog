@@ -12,7 +12,7 @@
 <div class="container">
     <jsp:include page="fragments/bodyHeader.jsp"/>
     <!---<h2><fmt:message key="welcome2mycliqr Demo v1"/></h2>--->
-    <h1> Welcome to My first Blog</h2> 
+    <h1> Welcome to My first Blog Updated</h2> 
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/w3css/3/w3.css">
